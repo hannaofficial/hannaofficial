@@ -1,10 +1,11 @@
-## Wulcom 😴
+## ulcom 😴
 
 I'm currently pissed off
 <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/aaf2ed6b-1822-47e8-a645-0b64bc2e540b" width="900">
 
 - 🌱 I’m currently learning meditation🥹
 - 💬 my insta/twitter id: @hannaofficial26
+- 👇 Below there're some of mine project you can check it out
 
 <!--
 **hannaofficial/hannaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

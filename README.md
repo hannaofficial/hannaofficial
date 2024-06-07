@@ -4,7 +4,8 @@ I'm currently pissed off
 
 - ![image](https://github.com/hannaofficial/hannaofficial/assets/129774610/a5bb4ff7-a2fb-4d7a-a944-94084ca2e852)
 
-file:///home/hannanur117/Documents/A_React_project/github.gif
+
+![github](https://github.com/hannaofficial/hannaofficial/assets/129774610/0ff7be07-6509-4454-afc7-cb96e303f498)
 
 
 ## Skills: Python, javascript, react.js, node.js, HTML/CSS

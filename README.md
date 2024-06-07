@@ -2,7 +2,9 @@
 
 I'm currently pissed off
 
-![github](https://github.com/hannaofficial/hannaofficial/assets/129774610/0ff7be07-6509-4454-afc7-cb96e303f498)
+![github2](https://github.com/hannaofficial/hannaofficial/assets/129774610/aaf2ed6b-1822-47e8-a645-0b64bc2e540b)
+
+
 
 - 🌱 I’m currently learning meditation🥹
 - 💬 my insta/twitter id: @hannaofficial26

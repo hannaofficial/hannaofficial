@@ -5,7 +5,7 @@ I'm currently pissed off
 
 - 🌱 I’m currently learning meditation🥹
 - 💬 my insta/twitter id: @hannaofficial26
-- 👇 Below there're some of mine project you can check it out
+- 👇 You can check out some of my work 😁
 
 <!--
 **hannaofficial/hannaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

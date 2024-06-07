@@ -4,6 +4,9 @@ I'm currently pissed off
 
 ![github2](https://github.com/hannaofficial/hannaofficial/assets/129774610/aaf2ed6b-1822-47e8-a645-0b64bc2e540b)
 
+<img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/aaf2ed6b-1822-47e8-a645-0b64bc2e540b" width="400">
+
+
 
 
 - 🌱 I’m currently learning meditation🥹

@@ -1,11 +1,11 @@
 ## ulcom 😴
 <br>
-I'm currently pissed off😑
+I'm currently pissed off 😑
 <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/aaf2ed6b-1822-47e8-a645-0b64bc2e540b" width="900">
 
 - 🌱 I’m currently learning meditation🥹
 - 💬 my insta/twitter id: @hannaofficial26
-- 👇 You can check out some of my work 😁
+- 👇 You can check out some of my work below 😁
 
 <!--
 **hannaofficial/hannaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

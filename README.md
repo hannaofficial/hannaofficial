@@ -1,4 +1,14 @@
-## Hi there 👋
+## Wulcom 😴
+
+I'm currently pissed off
+
+- ![image](https://github.com/hannaofficial/hannaofficial/assets/129774610/a5bb4ff7-a2fb-4d7a-a944-94084ca2e852)
+
+file:///home/hannanur117/Documents/A_React_project/github.gif
+
+
+## Skills: Python, javascript, react.js, node.js, HTML/CSS
+- 🌱 I’m currently learning deep learning (rnn,lstm,gru ....abhi pata nehi🥹)
 
 <!--
 **hannaofficial/hannaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

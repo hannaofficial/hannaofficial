@@ -4,7 +4,7 @@ I'm currently pissed off 😑
 !<br>
 
 <div style="width: 400px;">
-  <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/4f3114cb-5110-4bc3-a1e3-01320f9f6a36" style="width: 400px; height: 300px; " alt="just a meme">
+  <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/4f3114cb-5110-4bc3-a1e3-01320f9f6a36" style="width: 800px; height: 350px; " alt="just a meme">
 </div>
 
 <br>

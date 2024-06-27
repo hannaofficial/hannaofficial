@@ -1,13 +1,19 @@
- Hey there “👋    <br><br>  <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/495f59bc-69c8-4c13-ba7d-9e00176cb9c6" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #000;" alt="just a meme"> 
+## Hey “👋  
+
+<img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/495f59bc-69c8-4c13-ba7d-9e00176cb9c6" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #000;" alt="just a meme"> 
 
 
 <!-- <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/4f3114cb-5110-4bc3-a1e3-01320f9f6a36" width="600" height='450px'   > -->
 
+> [!TIP]
+> - 🌱 I’m currently in ~~cool mind~~ confusion🥹
+> - 💬 my insta/twitter id: @hannaofficial26
+> - 👇 You can check out some of my work below 😁
 
 
-- 🌱 I’m currently in confusion🥹
-- 💬 my insta/twitter id: @hannaofficial26
-- 👇 You can check out some of my work below 😁
+
+
+
 
 <!--
 **hannaofficial/hannaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

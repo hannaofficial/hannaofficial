@@ -1,11 +1,7 @@
-## ulcom 
+ <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/4f3114cb-5110-4bc3-a1e3-01320f9f6a36" style="width: 50px; height: 50px; border-radius: 50%; border: 2px solid #000;" alt="just a meme">     Heelllooo “👋
 
-heeeww  😁
-<br>
 
-<div style="width: 400px;">
-  <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/4f3114cb-5110-4bc3-a1e3-01320f9f6a36" style="width: 600px; height: 350px; " alt="just a meme">
-</div>
+
 
 <br>
 

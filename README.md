@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning meditation🥹
+- 🌱 I’m currently in confusion🥹
 - 💬 my insta/twitter id: @hannaofficial26
 - 👇 You can check out some of my work below 😁
 

@@ -7,7 +7,6 @@
 
 > [!IMPORTANT]
 > - 🌱 I’m currently in ~~cool mind 🧘~~ confusion🥹
-> - 💬 my insta/twitter id: @hannaofficial26
 > - 👇 You can check out some of my work below 😁
 
 

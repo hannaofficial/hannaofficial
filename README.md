@@ -6,7 +6,7 @@
 <!-- <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/4f3114cb-5110-4bc3-a1e3-01320f9f6a36" width="600" height='450px'   > -->
 
 > [!IMPORTANT]
-> - 🌱 I’m currently in ~~cool mind 🧘~~ confusion🥹
+> - 🌱 currently learning transformer🤖
 > - 👇 You can check out some of my work below 😁
 
 

@@ -1,7 +1,7 @@
 <h1 align="left"> Hey 👋, I'm Hanna </h1>
 
 <p align="left">
-  <img src="medi.gif" width="300" style="border-radius: 50%; border: 5px solid #d3d3d3; alt="just a meme">
+  <img src="medi.gif" width="200" style="border-radius: 50%; border: 5px solid #d3d3d3; alt="just a meme">
 </p>
 
 

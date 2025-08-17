@@ -15,7 +15,7 @@
   🔍 🛠️ 💡 📂 ✨ 🚀  
 
 - ✍️ My Writings:  
-   <a href="https://www.iamhanna.org" style="text-decoration:none; color:#4CAF50;"><b>iamhanna.org</b></a>
+   <a href="https://www.iamhanna.org/writings" style="text-decoration:none; color:#4CAF50;"><b>iamhanna.org</b></a>
 
 
  

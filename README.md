@@ -30,7 +30,7 @@
 
 <p align="left">
    
-  <i>I am nothing</i>🧘
+  <i>I am nothing just learning</i>🧘
 </p>
 
 

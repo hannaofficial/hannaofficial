@@ -1,4 +1,4 @@
-## Hey “👋  
+## Hey 👋  
 
 <img src="https://github.com/hannaofficial/hannaofficial/assets/129774610/495f59bc-69c8-4c13-ba7d-9e00176cb9c6" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #000;" alt="just a meme"> <br>
 

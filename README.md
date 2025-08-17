@@ -7,12 +7,18 @@
     </td>
     <td>
       
-> [!IMPORTANT]  
-> - 🌱 Currently learning **how to learn**  
->   🐣 ➡️ 🐒 ➡️ 🦧 ➡️ 🧎‍➡️ ➡️ 🚶‍➡️ ➡️ 🏃‍➡️ ➡️ 🧑‍💻 ➡️ 🧠 ⚡  
->
-> - 👇 You can check out some of my **work below**  
->   🔍 🛠️ 💡 📂 ✨ 🚀  
+### 🌟 Highlights
+- 🌱 Currently learning **how to learn**  
+  🐣 ➡️ 🐒 ➡️ 🦧 ➡️ 🧎‍➡️ ➡️ 🚶‍➡️ ➡️ 🏃‍➡️ ➡️ 🧑‍💻 ➡️ 🧠 ⚡  
+
+- 👇 Check out some of my **work below**  
+  🔍 🛠️ 💡 📂 ✨ 🚀  
+
+- ✍️ My Writings:  
+   <a href="https://www.iamhanna.org" style="text-decoration:none; color:#4CAF50;"><b>iamhanna.org</b></a>
+
+
+ 
 
    </td>
   </tr>
